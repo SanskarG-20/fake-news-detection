@@ -1,6 +1,6 @@
 ## Multi-Agent Fake-News Detection Platform ##
 
-This project is an interactive web platform designed to detect and explain fake or misleading news. Built for a hackathon, it leverages a machine learning backend and a responsive frontend to provide users with a verdict, confidence score, and explainable insights into why a news article is classified as real or fake
+FactCheck Pro is an interactive web platform designed to detect and explain fake or misleading news. Built for a hackathon, it leverages a machine learning backend and a responsive frontend to provide users with a verdict, confidence score, and explainable insights into why a news article is classified as real or fake
 
 ## Key Features ##
 
