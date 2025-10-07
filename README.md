@@ -14,6 +14,6 @@ FactCheck Pro is an interactive web platform designed to detect and explain fake
 
 1) Backend: Python, FastAPI, Scikit-learn (for the SVM model)
 
-2) Frontend: React (with Vite), CSS Modules
+2) Frontend: React (with Figma), CSS Modules
 
 3) ML Model: A Linear SVM model trained on a labeled news dataset, using TF-IDF for text vectorization.
